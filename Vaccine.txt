@@ -1,0 +1,20 @@
+1,CoronaVac,NorthWood,70
+2,CoronaVac,EastWood,0
+3,CoronaVac,SouthWood,398
+4,CoronaVac,WestWood,400
+5,Johnson & Johnson,NorthWood,400
+6,Johnson & Johnson,EastWood,400
+7,Johnson & Johnson,SouthWood,400
+8,Johnson & Johnson,WestWood,322
+9,Moderna,NorthWood,5
+10,Moderna,EastWood,0
+11,Moderna,SouthWood,398
+12,Moderna,WestWood,401
+13,Sinopharm,NorthWood,400
+14,Sinopharm,EastWood,398
+15,Sinopharm,SouthWood,400
+16,Sinopharm,WestWood,399
+17,Pfizer,NorthWood,399
+18,Pfizer,EastWood,400
+19,Pfizer,SouthWood,399
+20,Pfizer,WestWood,400

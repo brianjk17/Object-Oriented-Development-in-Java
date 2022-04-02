@@ -1,0 +1,13 @@
+1,brian,12345,Brian jk,17/8/2002,Non-Citizen,1234567890,4,Non-Vaccinated
+2,e,1,Zheng,20/11/2016,Citizen,X123123123,5,Non-Vaccinated
+3,jk,123,joseph,31/12/1987,Citizen,123,none,Non-Vaccinated
+4,potato,iris,ora the seco,7/5/1945,Non-Citizen,55555555,6,Vaccinated
+5,Zheng42,poland,Elden Zheng,20/11/2002,Non-Citizen,123456789,7,Vaccinated
+6,alien,steven,et,5/5/1924,Non-Citizen,80123863,14,Non-Vaccinated
+7,poandia,redblue,poland,7/6/2014,Non-Citizen,864465465486468,none,Non-Vaccinated
+8,jolo,stardust,jojo,7/7/2013,Non-Citizen,333333333,15,Non-Vaccinated
+9,giogio,goldenwind,Giornno Giovanna,8/5/1950,Non-Citizen,875646165489,12,Non-Vaccinated
+10,jojo,diamond,josuke higaskata,19/8/1990,Non-Citizen,44444444444,13,Non-Vaccinated
+11,pres5,USA,Barrack Obama,26/9/1927,Citizen,4564165,16,Non-Vaccinated
+12,ola,halo,olajo,8/7/1923,Non-Citizen,8546546548,17,Non-Vaccinated
+13,Polandia,west,polan,8/7/1903,Non-Citizen,5456,none,Non-Vaccinated
